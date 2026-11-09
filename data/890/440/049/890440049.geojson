@@ -272,10 +272,10 @@
     "wd:longitude":"105.678055555",
     "wd:wordcount":184,
     "wof:belongsto":[
-        874411115,
+        1175611263,
         102191569,
         404550147,
-        85632495,
+        1175747295,
         136253039
     ],
     "wof:breaches":[],
@@ -292,11 +292,11 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632495,
+            "dependency_id":1175747295,
             "empire_id":136253039,
             "localadmin_id":404550147,
             "locality_id":890440049,
-            "region_id":874411115
+            "region_id":1175611263
         }
     ],
     "wof:id":890440049,
